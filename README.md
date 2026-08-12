@@ -50,4 +50,4 @@ This project strengthened my practical experience with:
 
 ## Project File
 
-- `Statistical_Data_Analysis.ipynb` — Complete Jupyter Notebook containing the analysis, statistical testing, and conclusions.
+- `telecom-statistical-analysis.ipynb` — Complete Jupyter Notebook containing the analysis, statistical testing, and conclusions.
